@@ -1,0 +1,8 @@
+numpy
+matplotlib
+skit-learn
+umap-learn
+pandas
+tqdm
+WordCloud
+seaborn
